@@ -52,15 +52,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 📝 Blog & Writing
-I occasionally write about data, visualization, and interesting trends. Check out my articles:
-
-- **[Housing Market Trends in New Zealand](https://example.com/housing-trends)**  
-- **[Top Data Visualization Tools in 2025](https://example.com/data-viz-tools)**  
-- **[How to Get Started with Big Data Analysis](https://example.com/big-data-beginners)**  
-
----
-
 ## 📫 Let's Connect!
 I’d love to connect and collaborate on projects, share ideas, or just chat about data! Feel free to reach out:
 
