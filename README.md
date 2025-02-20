@@ -41,7 +41,6 @@ Here are some of the tools and technologies I work with:
 - SQL (PostgreSQL, MySQL)
 
 ### Data Visualization & Tools
-- Tableau
 - Power BI
 - Excel (Advanced)
 
