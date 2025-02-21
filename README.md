@@ -41,7 +41,7 @@ Here are some of the tools and technologies I work with:
 - SQL (PostgreSQL, MySQL)
 
 ### Data Visualization & Tools
-- Power BI
+- Power BI (certification: Power BI Data Analyst Associate)
 - Excel (Advanced)
 
 ### Others
