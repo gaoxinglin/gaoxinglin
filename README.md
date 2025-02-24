@@ -7,17 +7,10 @@ Welcome to my GitHub profile! I'm a **data enthusiast** based in **New Zealand**
 ## 🚀 Recent Projects
 Here are some of the exciting projects I've been working on:
 
-- **🏠 NZ Housing Market Analysis**:  
-  Explored trends in housing prices across New Zealand, including visualizations of regional disparities and affordability challenges.  
+- **🏠**:  
+  Explored trends in
   *[View project repository](https://github.com/example/NZ-housing-analysis)*
 
-- **📈 Interactive Data Dashboards**:  
-  Built user-friendly dashboards using Tableau and Python to visualize key business metrics.  
-  *[View project repository](https://github.com/example/data-dashboards)*
-
-- **🌏 Environmental Data Insights**:  
-  Analyzed climate and environmental data to understand patterns in New Zealand's biodiversity and sustainability challenges.  
-  *[View project repository](https://github.com/example/environmental-data)*
 
 ---
 
