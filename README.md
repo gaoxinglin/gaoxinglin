@@ -51,7 +51,3 @@ I’d love to connect and collaborate on projects, share ideas, or just chat abo
 - **Email**: [gaoxinglin@gmail.com](mailto:gaoxinglin@gmail.com)  
 
 ---
-
-## 🌟 Fun Fact
-Did you know? **New Zealand has more sheep than people!** 🐑  
-I also enjoy exploring NZ's stunning landscapes and capturing them through photography.
