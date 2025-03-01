@@ -5,11 +5,7 @@ Welcome to my GitHub profile! I'm a **data enthusiast** based in **New Zealand**
 ---
 
 ## 🚀 Recent Projects
-Here are some of the exciting projects I've been working on:
 
-- **🏠**:  
-  Explored trends in
-  *[View project repository](https://github.com/example/NZ-housing-analysis)*
 
 
 ---
