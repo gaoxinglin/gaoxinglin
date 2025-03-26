@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a **data** and **AI enthusiast** based in **Ne
 
 ## 🚀 Recent Projects
 
-
-
 ---
 
 ## 📊 Interests
