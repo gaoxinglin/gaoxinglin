@@ -24,7 +24,6 @@ Here are some of the tools and technologies I work with:
 
 ### Programming & Data Analysis
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-- R (ggplot2, dplyr, tidyr)
 - SQL (PostgreSQL, MySQL)
 
 ### Data Visualization & Tools
