@@ -31,7 +31,7 @@ Here are some of the tools and technologies I work with:
 - Excel (Advanced)
 
 ### Others
-- AI & LLMs
+- AI & Large Language Models (LLMs)
 - Git & GitHub
 - Machine Learning (Scikit-learn, TensorFlow)
 - Big Data (Spark, Hadoop)
