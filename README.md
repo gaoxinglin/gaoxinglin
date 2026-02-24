@@ -26,17 +26,6 @@ I build **Reliable, Scalable, and Data-Intensive Applications**. My focus lies i
 | **Analytics** | PowerBI, Looker Studio, Pandas |
 
 ---
-
-### ✍️ Latest from the Blog (ycmedical.com)
-*Stay tuned for technical deep dives into Data Engineering and Backend architecture!*
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaoxinglin&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoxinglin&layout=compact&theme=merko" />
-</p>
-
 ---
 <p align="center">
   "Data is the new oil, but Engineering is the refinery."
