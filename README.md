@@ -8,7 +8,7 @@
 
 ### 🔭 About Me
 
-Data Engineer specializing in real-time streaming and lakehouse architecture on Azure and Databricks.
+Data Engineer specializing in real-time streaming and lakehouse architecture on Azure and Databricks. All in on AI — I integrate LLMs and agent frameworks into every layer of how I build and learn.
 
 - 🚌 Building **[Auckland Transport Real-time Pipeline](Pending)** — GTFS-RT feeds → Azure Event Hubs → Spark Structured Streaming → Delta Lake (Medallion) → Power BI dashboards.
 - 📦 Pursuing **Databricks Certified Data Engineer Associate** to deepen lakehouse and Unity Catalog expertise.
@@ -38,6 +38,13 @@ Data Engineer specializing in real-time streaming and lakehouse architecture on 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**🤖 AI & LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Cloud & DevOps**
 
