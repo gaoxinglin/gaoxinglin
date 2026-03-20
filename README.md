@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Xinglin (Andrew) GAO | Data & Backend Engineer
+# 👋 Hi, I'm Xinglin (Andrew) Gao | Data Engineer
 
 <p align="left">
   <a href="https://linkedin.com/in/gaoxinglin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -6,12 +6,13 @@
   <a href="https://ycmedical.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
-### 🔭 Expertise & Vision
-I build **Reliable, Scalable, and Data-Intensive Applications**. My focus lies in bridging the gap between sophisticated data pipelines and production-ready backend services.
+### 🔭 About Me
 
-- 🛠️ Currently mastering the **Modern Data Stack** via [DE ZoomCamp 2026](your-link).
-- 🏗️ Architecting high-performance APIs using **FastAPI** and **DuckDB**.
-- ☁️ Operating across **Multi-Cloud** environments (AWS, Azure, GCP) with **Terraform**.
+Data Engineer specializing in real-time streaming and lakehouse architecture on Azure and Databricks.
+
+- 🚌 Building **[Auckland Transport Real-time Pipeline](Pending)** — GTFS-RT feeds → Azure Event Hubs → Spark Structured Streaming → Delta Lake (Medallion) → Power BI dashboards.
+- 📦 Pursuing **Databricks Certified Data Engineer Associate** to deepen lakehouse and Unity Catalog expertise.
+- 🎯 Seeking **Data Engineer** roles — designing and owning production-grade pipelines end-to-end.
 
 ---
 
@@ -62,5 +63,5 @@ I build **Reliable, Scalable, and Data-Intensive Applications**. My focus lies i
 ---
 
 <p align="center">
-  "Data is the new oil, but Engineering is the refinery."
+  "Data is the new oil — pipelines determine who gets it first."
 </p>
