@@ -10,7 +10,7 @@
 
 Data Engineer specializing in real-time streaming and lakehouse architecture on Azure and Databricks. All in on AI — I integrate LLMs and agent frameworks into every layer of how I build and learn.
 
-- 🚌 Building **[Auckland Transport Real-time Pipeline](Pending)** — GTFS-RT feeds → Azure Event Hubs → Spark Structured Streaming → Delta Lake (Medallion) → Power BI dashboards.
+- 🚌 Building **[Auckland Transport Real-time Pipeline](https://github.com/gaoxinglin/at-streaming-data-pipeline)** — GTFS-RT feeds → Azure Event Hubs → Spark Structured Streaming → Delta Lake (Medallion) → Power BI dashboards.
 - 📦 Pursuing **Databricks Certified Data Engineer Associate** to deepen lakehouse and Unity Catalog expertise.
 - 🎯 Seeking **Data Engineer** roles — designing and owning production-grade pipelines end-to-end.
 
