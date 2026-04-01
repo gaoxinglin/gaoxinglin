@@ -78,6 +78,3 @@ Data Engineer building end-to-end pipelines — from real-time streaming (Spark,
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaoxinglin&hide_border=true" alt="GitHub Streak" />
-</p>
