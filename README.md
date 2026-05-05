@@ -6,11 +6,10 @@
   <a href="https://ycmedical.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
-Data Engineer building end-to-end pipelines — from real-time streaming (Spark, Kafka, Delta Lake) to batch lakehouse (BigQuery, Bruin). I integrate LLMs and agent frameworks into my data workflows.
+Data Engineer building end-to-end pipelines — from real-time streaming (Spark, Kafka, Delta Lake) to batch lakehouse (Snowflake, dbt). I integrate LLMs and agent frameworks into my data workflows.
 
 ### Currently
 
-- Building [**Auckland Transport Real-time Pipeline**](https://github.com/gaoxinglin/at-streaming-data-pipeline) — GTFS-RT → Spark Structured Streaming → Delta Lake (Medallion) → Power BI
 - Pursuing **Databricks Certified Data Engineer Associate**
 - Seeking **Data Engineer** roles in New Zealand
 
@@ -18,10 +17,10 @@ Data Engineer building end-to-end pipelines — from real-time streaming (Spark,
 
 ### Featured Projects
 
-| Project                                                                                              | Stack                                                                 | What it does                                                                                                               |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [**AT Real-time Pipeline**](https://github.com/gaoxinglin/at-streaming-data-pipeline)                | Spark Structured Streaming · Azure Event Hubs · Delta Lake · Power BI | Real-time Auckland Transport GTFS-RT feeds → Medallion lakehouse → live dashboards                                         |
-| [**NZ Electricity Generation Pipeline**](https://github.com/gaoxinglin/DE-zoomcamp-capstone-project) | Bruin · BigQuery · GCS · Terraform · Looker Studio                    | Batch pipeline: 98 months of EMI data → Bruin (ingestion + SQL transforms + quality checks) → BigQuery → Looker dashboards |
+| Project | Stack | What it does |
+| ------- | ----- | ------------ |
+| [**AT Real-time Pipeline**](https://github.com/gaoxinglin/at-streaming-data-pipeline) | Spark Structured Streaming · Kafka · Delta Lake · dbt · Databricks · Azure · Terraform | GTFS-RT feeds → Spark real-time detection (delay / stall / bunching) → Delta Lake Medallion on ADLS Gen2 → Streamlit + Power BI |
+| [**NZ Electricity Generation Pipeline**](https://github.com/gaoxinglin/nz-electricity-generation-batch-pipeline) | Airflow · dbt · Snowflake · S3 · Terraform · Streamlit | 123 months of EMI data → 7-task Airflow DAG → Snowflake dimensional model (dbt) → Streamlit dashboard |
 
 ---
 
@@ -75,6 +74,3 @@ Data Engineer building end-to-end pipelines — from real-time streaming (Spark,
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
