@@ -8,11 +8,6 @@
 
 Building end-to-end pipelines — from real-time streaming (Spark, Kafka, Delta Lake) to batch lakehouse (Snowflake, dbt). I integrate LLMs and agent frameworks into my data workflows.
 
-### Currently
-
-- Pursuing **Databricks Certified Data Engineer Associate**
-- Seeking **Data Engineer** roles in New Zealand
-
 ---
 
 ### Featured Projects
