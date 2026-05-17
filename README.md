@@ -6,7 +6,7 @@
   <a href="https://ycmedical.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
-Data Engineer building end-to-end pipelines — from real-time streaming (Spark, Kafka, Delta Lake) to batch lakehouse (Snowflake, dbt). I integrate LLMs and agent frameworks into my data workflows.
+Building end-to-end pipelines — from real-time streaming (Spark, Kafka, Delta Lake) to batch lakehouse (Snowflake, dbt). I integrate LLMs and agent frameworks into my data workflows.
 
 ### Currently
 
