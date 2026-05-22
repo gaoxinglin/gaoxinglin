@@ -1,4 +1,4 @@
-# Xinglin (Andrew) Gao — Data & Platform Operations Engineer
+# Xinglin (Andrew) Gao — Data Engineer
 
 <p align="left">
   <a href="https://linkedin.com/in/gaoxinglin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,7 +15,7 @@ Building end-to-end pipelines — from real-time streaming (Spark, Kafka, Delta 
 | Project | Stack | What it does |
 | ------- | ----- | ------------ |
 | [**AT Real-time Pipeline**](https://github.com/gaoxinglin/at-streaming-data-pipeline) | Spark Structured Streaming · Kafka · Delta Lake · dbt · Databricks · Azure · Terraform | GTFS-RT feeds → Spark real-time detection (delay / stall / bunching) → Delta Lake Medallion on ADLS Gen2 → Streamlit + Power BI |
-| [**NZ Electricity Generation Pipeline**](https://github.com/gaoxinglin/nz-electricity-generation-batch-pipeline) | Airflow · dbt · Snowflake · S3 · Terraform · Streamlit | 123 months of EMI data → 7-task Airflow DAG → Snowflake dimensional model (dbt) → Streamlit dashboard |
+| [**NZ Electricity Generation Pipeline**](https://github.com/gaoxinglin/nz-electricity-generation-batch-pipeline) | Airflow · dbt · Snowflake · S3 · Terraform · Streamlit | 123+ months of EMI data → 7-task Airflow DAG → Snowflake dimensional model (dbt) → Streamlit dashboard |
 
 ---
 
