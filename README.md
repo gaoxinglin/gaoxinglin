@@ -1,72 +1,69 @@
-# Xinglin (Andrew) Gao — Data Engineer
+# Hi, I'm Andrew Gao
 
-<p align="left">
-  <a href="https://linkedin.com/in/gaoxinglin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gaoxinglin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/gaoxinglin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+I'm a **Data Engineer based in Auckland, New Zealand**, with production experience building SQL, Python, and PostgreSQL data platforms for healthcare operations.
 
-Data Engineer with production experience building SQL/Python/PostgreSQL analytics platforms for healthcare operations, plus hands-on cloud data engineering projects across Spark Streaming, Kafka, Databricks, Snowflake, dbt, Airflow, AWS, Azure, and Terraform.
+I design reliable batch and streaming systems that turn fragmented operational data into governed, analytics-ready datasets.
 
-I focus on end-to-end data systems: ingestion, modelling, data quality, orchestration, observability, and analytics-ready marts.
+## What I'm working on
 
----
+* **Batch and streaming data engineering:** building pipelines with Airflow, Spark Structured Streaming, Kafka, dbt, and Delta Lake
+* **Lakehouse and warehouse platforms:** designing Medallion and dimensional models across Databricks, Snowflake, PostgreSQL, and DuckDB
+* **Data reliability and DataOps:** implementing idempotent processing, data quality validation, quarantine, observability, lineage, CI/CD, and infrastructure as code
+* **AI-ready data systems:** exploring RAG and agent workflows grounded in reliable, governed enterprise data
 
-## Featured Work
+## Selected projects
 
-| Project | Stack | What it demonstrates |
-| ------- | ----- | -------------------- |
-| [**AT Real-time Streaming Pipeline**](https://github.com/gaoxinglin/at-streaming-data-pipeline) | Spark Structured Streaming · Kafka · Avro · Delta Lake · Databricks · Azure · Terraform · dbt · Streamlit | GTFS-RT feeds → Kafka/Event Hubs → Spark real-time delay, stall, and bunching detection → Delta Lake Medallion architecture → dashboard and alerting layer. |
-| [**NZ Electricity Wholesale Market ELT Platform**](https://github.com/gaoxinglin/nz-electricity-generation-batch-pipeline) | Airflow · dbt · Snowflake · DuckDB · AWS S3 · Terraform · Streamlit | EMI public datasets → S3/Snowflake or local DuckDB → cross-warehouse dbt models, reconciliation tests, market-volume and offer-stack analytics, cost telemetry, and dashboard serving. |
+* [**Auckland Transport Real-time Streaming Pipeline**](https://github.com/gaoxinglin/at-streaming-data-pipeline) — GTFS-Realtime feeds processed through Kafka and Spark Structured Streaming for delay, stall, and vehicle-bunching detection, with data stored in a Delta Lake Medallion architecture.
 
----
+* [**NZ Electricity Wholesale Market ELT Platform**](https://github.com/gaoxinglin/nz-electricity-generation-batch-pipeline) — Airflow and dbt pipelines loading public electricity-market datasets into Snowflake and DuckDB, with reconciliation tests, dimensional models, cost monitoring, and analytics dashboards.
 
-## Engineering Highlights
+## Tech I work with
 
-- Built a production PostgreSQL analytics platform with 8 business pipelines, 9 schemas, DQ rules, run logs, checkpoints, lineage events, monitoring signals, and Power BI semantic views.
-- Designed Spark Structured Streaming jobs for stateless alerts, stateful vehicle-stall detection, and windowed headway regularity analysis.
-- Built a cross-warehouse dbt project that runs on both Snowflake and DuckDB using engine-specific macros for trading-period unpivoting, date spines, weekday handling, and backfill arithmetic.
-- Implemented DataOps patterns including idempotent loads, row-level quarantine, source freshness checks, dbt artifact ingestion, CI checks, and Airflow failure callbacks.
-- Use LLMs and agent workflows as engineering accelerators for documentation, validation, analysis, and pipeline iteration.
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql\&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash\&logoColor=white)
 
----
+**Data engineering:**
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow\&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt\&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-00ADD8?logo=deltalake\&logoColor=white)
 
-## Tech Stack
+**Databases and warehouses:**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver\&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake\&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb\&logoColor=black)
 
-### Production / Commercial Experience
+**Cloud and data platforms:**
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure\&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices\&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks\&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**DevOps and infrastructure:**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux\&logoColor=black)
 
-### Cloud & Modern Data Projects
+**Analytics and visualization:**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter\&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi\&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit\&logoColor=white)
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+**AI and LLM tooling:**
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai\&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic-D4A27A?logo=anthropic\&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini\&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain\&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-005571)
 
-### Cloud, DevOps & BI
+## Get in touch
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+* [LinkedIn](https://www.linkedin.com/in/gaoxinglin/)
+* [Email](mailto:gaoxinglin@gmail.com)
 
-### AI & LLM Tooling
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
----
