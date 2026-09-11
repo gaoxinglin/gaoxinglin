@@ -15,7 +15,7 @@ I design reliable batch and streaming systems that turn fragmented operational d
 
 * [**Auckland Transport Real-time Streaming Pipeline**](https://github.com/gaoxinglin/at-streaming-data-pipeline) — GTFS-Realtime feeds processed through Kafka and Spark Structured Streaming for delay, stall, and vehicle-bunching detection, with data stored in a Delta Lake Medallion architecture.
 
-* [**NZ Electricity Wholesale Market ELT Platform**](https://github.com/gaoxinglin/nz-electricity-generation-batch-pipeline) — Airflow and dbt pipelines loading public electricity-market datasets into Snowflake and DuckDB, with reconciliation tests, dimensional models, cost monitoring, and analytics dashboards.
+* [**NZ Electricity Wholesale Market ELT Platform**](https://github.com/gaoxinglin/NZ-Electricity-Wholesale-Market-ELT-Platform) — Airflow and dbt pipelines loading public electricity-market datasets into Snowflake and DuckDB, with reconciliation tests, dimensional models, cost monitoring, and analytics dashboards.
 
 ## Tech I work with
 
